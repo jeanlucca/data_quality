@@ -1,1 +1,1 @@
-# Projeto de DataQuality - Curso de Streamlit da Udemy com Luciano Borba
+# Projeto de DataQuality - Curso de Streamlit da Udemy
